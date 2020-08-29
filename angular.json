@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-shop-mobile-app"
+    }
+  },
+  "defaultProject": "my-shop-mobile-app",
+  "cli": {
+    "analytics": false
+  }
 }
